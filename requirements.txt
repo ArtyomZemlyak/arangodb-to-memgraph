@@ -1,0 +1,3 @@
+ai-common-utils
+arangodb-client
+gqlalchemy
